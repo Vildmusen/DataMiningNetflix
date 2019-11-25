@@ -1,0 +1,22 @@
+,description
+Rating,IMDbs average rating of the moive
+Genre_Group,Index of movies genre group in unique_genres.csv
+Nr_of_Ratings,IMDbs count of ratings of the moive
+Actor1,Top billed actor
+Actor1Perf,Average performance score of actor 1
+Actor2,Second most top billed actor
+Actor2Perf,Average performance score of actor 2
+Actor3,Third most top billed actor
+Actor3Perf,Average performance score of actor 3
+Dir,Director of the movie
+DirPerf,Average performance score of director
+Writer1,Top billed writer
+Writer1Perf,Average performance score of writer 1
+Writer2,Second most top billed writer
+Writer2Perf,Average performance score of writer 2
+Writer3,Third most top billed writer
+Writer3Perf,Average performance score of writer 3
+Producer,Producer of the movie
+ProducerPerf,Average performance score of producer
+Composer,Composer of the movie
+ComposerPerf,Average performance score of composer
